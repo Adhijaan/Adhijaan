@@ -6,8 +6,12 @@ Thanks for checking out my profile, here's a bit about me.
 - 🔥 I've been creating CS projects since high school
 - 🎓 Currently enrolled in a class on the foundations of Computer Science
 - 🚀 Working on a Hogwarts housing point system for a small private boarding school
+- 🫧 Interned twice at Cyanergy, a green energy startup.
 - 🌱 Looking to explore Cyber Security and AI/ML alongside Software Enginering
 
 If you'd like to chat, get to know me better, or like to collaborate on a project, connect with me on [LinkedIn](https://www.linkedin.com/in/-adnan-rashid/) or send me an email at [adnanr@umich.edu](mailto:adnanr@umich.edu)
 
-I'd like to showcase some of my projects, unfortuantley all were for companies or organizations that have requested private repos. However, I competed in Mhacks, the largest hackathon in the midwest where I created a project with a team. Over 24 hrs we made an interactive map that dispalyed presedential election results by state and year. Check it out [here](https://github.com/shivanshnu/Mhacks-political_map) 
+Here are a few projects I can show:
+- [Hogwarts Housing Point Tracker](https://github.com/Mahad-al-Zahra-USA/Hogwarts) 
+- [Vision Vote](https://github.com/shivanshnu/Mhacks-political_map) 
+- [Grade Sheets](https://github.com/Adhijaan/GradeSheets) 
