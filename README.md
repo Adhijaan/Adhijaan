@@ -4,7 +4,7 @@ Thanks for checking out my profile, here's a bit about me.
 
 - 📚 I'm an engineering student at the **University of Michigan** studying **Computer Science** with a passion for software engineering and entrepreneurship
 - 🔥 I've been creating CS projects since high school
-- 🎓 Currently enrolled in a Computer Theory and soon taking Web Systems, Software Engineering, and Intro Computer Systems and Architecture.
+- 🎓 Taking Web Systems, Software Engineering, Intro Computer Systems and Architecture, and Computer Pragmatics.
 - 🚀 Working on a Hogwarts housing point system for a small private boarding school
 - 🫧 Interned twice at Cyanergy, a green energy startup. (Cloud + Full Stack Development Experience)
 - 🌱 Looking to explore Cyber Security and AI/ML alongside Software Enginering
